@@ -1,11 +1,7 @@
 # WesHacks
 
 <div style="text-align:center;" align="center">
-    <a href="https://github.com/Wes-Hacks/WesHacks/issues"><img src="https://img.shields.io/github/issues/Wes-Hacks/WesHacks" alt="GitHub Issues"></a>
     <a href="https://github.com/Wes-Hacks/WesHacks/graphs/commit-activity"><img src="https://img.shields.io/github/commit-activity/t/Wes-Hacks/WesHacks" alt="GitHub Commit Activity"></a>
-    <a href="https://github.com/Wes-Hacks/WesHacks/languages"><img src="https://img.shields.io/github/languages/count/Wes-Hacks/WesHacks" alt="GitHub Language Count"></a>
-    <a href="https://github.com/Wes-Hacks/WesHacks/actions"><img src="https://img.shields.io/github/check-runs/Wes-Hacks/WesHacks/main" alt="GitHub Branch Check Runs"></a>
-    <a href="https://github.com/Wes-Hacks/WesHacks"><img src="https://img.shields.io/github/repo-size/Wes-Hacks/WesHacks" alt="GitHub Repo Size"></a>
 </div>
 
 ---
