@@ -3,6 +3,8 @@
 The official Hackathon competition discussion team for the Muweilah Wesgreen Hackathon.
 For the website repository go [here](https://github.com/DefinetlyNotAI/WesHacks)
 
+For the timelines go [here](https://github.com/users/DefinetlyNotAI/projects/6/views/1), you will need permission first.
+
 ## Overview
 WesHacks is a web-based platform designed to manage and display information related to the Muweilah Wesgreen Hackathon. This repository contains the source code for the hackathon's website, focusing on providing participants with up-to-date information, schedules, and resources.
 
