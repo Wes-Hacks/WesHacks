@@ -1,9 +1,5 @@
 # WesHacks
 
-<div style="text-align:center;" align="center">
-    <a href="https://github.com/Wes-Hacks/WesHacks/graphs/commit-activity"><img src="https://img.shields.io/github/commit-activity/t/Wes-Hacks/WesHacks" alt="GitHub Commit Activity"></a>
-</div>
-
 ---
 
 The official Hackathon competition discussion team for the Muweilah Wesgreen Hackathon.
